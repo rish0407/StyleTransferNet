@@ -23,8 +23,7 @@ from IM2IM_model import Generator, Encoder
 from preprocess import Preprocessing, CustomDataset
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-checkpoint_path = './checkpoint_new_epoch_8.pth' 
-# checkpoint_path = './model_new.pth' 
+checkpoint_path = './model_new.pth' 
 checkpoint = torch.load(checkpoint_path)
 
 G = Generator(4).to(device)
