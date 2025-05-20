@@ -5,4 +5,4 @@ Further details of preprocessing, model architecture and training have been prov
 
 # Authors:
 Arush Dayal
-M.Shruti
+Rishita Khare
