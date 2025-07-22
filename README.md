@@ -3,6 +3,7 @@ The model includes components of vae and gans as well as their loss function to 
 
 Further details of preprocessing, model architecture and training have been provided in the Generative AI.pdf provided. 
 works?
+i think this does work
 # Authors:
 Arush Dayal
 Shruti Mallavarapu
